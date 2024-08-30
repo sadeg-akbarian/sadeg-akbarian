@@ -1,4 +1,4 @@
-### Hi there, welcome to my channel 👋:sunny::smile:
+### Hi there, welcome to my channel 👋😎😁
 
 <!--
 **sadeg-akbarian/sadeg-akbarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
