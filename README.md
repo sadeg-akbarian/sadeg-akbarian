@@ -1,5 +1,19 @@
 ### Hi there, welcome to my channel 👋😎😁
 
+I am a frontend-web-developer at junior level.
+
+My technologies are:
+
+- HTML
+- CSS
+- Javascript
+- Vue.js
+- Testing (Unit Testing with Jest, E2E Testing with Cypress)
+
+🌱 I’m currently learning Backend-development with a focus on Express.JS
+
+Go to my repositories to see which projects I already coded. I hope you like it 🤩😁👍
+
 <!--
 **sadeg-akbarian/sadeg-akbarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
