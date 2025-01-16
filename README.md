@@ -9,6 +9,7 @@ My technologies are:
 - Javascript
 - Vue.js
 - Testing (Unit Testing with Jest, E2E Testing with Cypress)
+- Node.JS and NPM
 
 🌱 I’m currently learning Backend-development with a focus on Express.JS
 
